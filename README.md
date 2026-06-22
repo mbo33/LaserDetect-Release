@@ -10,9 +10,12 @@ Download the latest test release from the **Releases** section on the right side
 
 The release assets include:
 
-- `LaserDetect.apk` — Android app                 ( sha256:da152bfb8d1fb90e89f7588555440c2051847084264c4a588f881f092a0c88c9 )
-- `detect.exe` — Windows UDP receiver/viewer      ( sha256:78b9bc2818ff56615704530187ad39cc6ada7507681552af58ae365fd5629d3f )
-- `dfs_15m.pdf` — printable target                ( sha256:7c6008982bda428da90195e832770be1132be54ac71ad7a20948118662ffca07 )
+- `LaserDetect.apk` — Android app                 
+  ( sha256:da152bfb8d1fb90e89f7588555440c2051847084264c4a588f881f092a0c88c9 )
+- `detect.exe` — Windows UDP receiver/viewer      
+  ( sha256:78b9bc2818ff56615704530187ad39cc6ada7507681552af58ae365fd5629d3f )
+- `dfs_15m.pdf` — printable target                
+   ( sha256:7c6008982bda428da90195e832770be1132be54ac71ad7a20948118662ffca07 )
 
 ## How to install the APK on an Android phone
 
