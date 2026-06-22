@@ -21,7 +21,7 @@ The release assets include:
 
 This is the easiest method for testers.
 
-## Installing the Android APK
+### Installing the Android APK
 
 1. Open the GitHub repository.
 2. Go to **Releases**.
