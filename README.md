@@ -4,6 +4,11 @@ LaserDetect is an experimental Android app for detecting and scoring laser hits 
 
 This repository contains prebuilt test releases only.
 
+
+<p align="center">
+  <img src="laserdetect_2.png" />
+</p>
+
 ## Downloads
 
 Download the latest test release from the **Releases** section on the right side of this GitHub page.
