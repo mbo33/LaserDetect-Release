@@ -14,8 +14,26 @@ The release assets include:
 - `detect.exe` — Windows UDP receiver/viewer
 - `dfs_15m.pdf` — printable target
 
-Do not use the automatically generated “Source code” downloads unless you only want the public README/LICENSE files. The application source code is not published.
+## How to install the APK on an Android phone
 
+This is the easiest method for testers.
+
+## Installing the Android APK
+
+1. Open the GitHub repository.
+2. Go to **Releases**.
+3. Open the latest release.
+4. Tap `LaserDetect.apk`.
+5. Wait for the APK to download.
+6. Open the downloaded APK file.
+7. Android may ask you to allow installation from unknown sources.
+8. Allow installation for the browser or file manager.
+9. Install the app.
+10. Start LaserDetect.
+11. When Android asks for camera permission, choose **Allow**.
+    (LaserDetect needs camera access to detect laser hits and read the ArUco target markers.)
+12. After testing, uninstall the app if you no longer want it on your phone.
+    
 ## Usage
 
 Before using LaserDetect with firearms, training weapons, or laser cartridges, always verify that the firearm is unloaded and that no live ammunition is present in the firearm, magazine, chamber, shooting area, or test setup.
