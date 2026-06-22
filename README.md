@@ -6,7 +6,7 @@ This repository contains prebuilt test releases only.
 
 
 <p align="center">
-  <img src="laserdetect_2.png" />
+  <img src="LaserDetect_2.png" />
 </p>
 
 ## Downloads
