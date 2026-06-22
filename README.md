@@ -11,7 +11,8 @@ Download the latest version from the Releases section.
 Files:
 
 - `LaserDetect.apk` — Android app
-- `detect.exe` — Windows UDP receiver/viewer 
+- `detect.exe` — Windows UDP receiver/viewer
+- 'dfs_15m.pdf' - the target used
 
 ## Usage
 
