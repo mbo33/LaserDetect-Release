@@ -6,13 +6,15 @@ This repository contains prebuilt test releases only.
 
 ## Downloads
 
-Download the latest version from the Releases section.
+Download the latest test release from the **Releases** section on the right side of this GitHub page.
 
-Files:
+The release assets include:
 
 - `LaserDetect.apk` — Android app
 - `detect.exe` — Windows UDP receiver/viewer
-- 'dfs_15m.pdf' - the target used
+- `dfs_15m.pdf` — printable target
+
+Do not use the automatically generated “Source code” downloads unless you only want the public README/LICENSE files. The application source code is not published.
 
 ## Usage
 
