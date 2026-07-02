@@ -50,17 +50,17 @@ See [SETTINGS.md](SETTINGS.md) for details.
 ### Quick Start
 
 1. Install the APK on an Android phone.
-2. Start `detect.exe` on a Windows PC.
+2. Start `detect.exe` on a Windows PC. This receives the shot data over Wi-Fi. Make sure the PC and phone are connected to the same network. LaserTarget/LaserDetect must send UDP data to the PC IP address. Use port `5005`, or the same port as configured in your receiver script/app. If hits are not received, check that Windows Firewall is not blocking UDP traffic.
 3. In the LaserDetect app, open UDP settings and enter the PC IP address. Use port `5005`.
-4. Make sure the phone and PC are connected to the same network.
-5. Start with simulated target mode (`Sim target`) and verify that hits are received by `detect.exe`.
-   Now a dedicated LaserHitMask for elliptical hit validation is addable.
+4. Start with simulated target mode (`Sim target`) and verify that hits are received by `detect.exe`.
+5. A dedicated `LaserHitMask` can be used for elliptical hit validation.
 6. Switch to ArUco target detection (`ArUco target`) when the simulated target test works.
 7. Place the phone in a stable position with a clear view of the ArUco target. The phone may be placed at an angle, but a distance of about 20–30 cm is recommended for testing.
 8. Test hits at the center, 12 o’clock, 3 o’clock, 6 o’clock, and 9 o’clock.
 9. Verify that the score, hit position, and UDP output match the actual hit location.
-10. To save battery, turn on "Power Save"
+10. To save battery, turn on `Power Save`.
 11. Have fun.
+
 
 ## License
 
