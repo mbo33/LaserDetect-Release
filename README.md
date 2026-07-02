@@ -64,9 +64,8 @@ See [SETTINGS.md](SETTINGS.md) for details.
 
 ###  Python oneliner to recieve and save log data
 
-´´´python
 py -c "import socket;s=socket.socket(2,2);s.bind(('',5005));print('UDP 5005');[print(d.decode('utf-8','replace')) for d,a in iter(lambda:s.recvfrom(4096),None)]"
-´´´
+
 
 ## License
 
