@@ -62,6 +62,10 @@ See [SETTINGS.md](SETTINGS.md) for details.
 11. Have fun.
 
 
+###  Python oneliner to recieve and log data
+
+py -c "import socket;s=socket.socket(2,2);s.bind(('',5005));print('UDP 5005');[print(d.decode('utf-8','replace')) for d,a in iter(lambda:s.recvfrom(4096),None)]"
+
 ## License
 
 LaserDetect is distributed as a prebuilt binary test release only.  
